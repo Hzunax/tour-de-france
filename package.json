@@ -1,5 +1,6 @@
 {
   "name": "tour-de-france",
+  "author": "Stijn Van Asschodt",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
