@@ -1,0 +1,11 @@
+#text-container {
+  display: block;
+}
+
+.timeInput {
+  margin: 8px;
+}
+
+#start-button {
+  margin: 8px;
+}
