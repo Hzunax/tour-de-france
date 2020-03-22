@@ -1,0 +1,12 @@
+#text-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.timeInput {
+  margin: 8px !important;
+}
+
+#start-button {
+  margin: 8px;
+}
